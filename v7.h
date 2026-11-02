@@ -1,3 +1,4 @@
+//this is optional, you dont have to use v7.h unless if you need APIs
 #ifndef V7_H_INCLUDED
 #define V7_H_INCLUDED
 #include <stdbool.h>
